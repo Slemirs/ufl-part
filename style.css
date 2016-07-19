@@ -1,0 +1,11 @@
+.jumbotron{
+    min-height: 500px;
+    background: url(img/team.jpg);
+    background-size: 100% 100%;
+}
+
+.img-circle{
+    height: 150px;
+    background: url(https://lh3.googleusercontent.com/TnRxz9X7j_OFJHwUSyn0sMBs6wR1RP6SgYxNZnbJo1XxW88tQhzP7XSqAUFG9MAwiC8j4g=w1326-h519) no-repeat;
+    background-size: cover;
+}
